@@ -1,2 +1,6 @@
 # UnityGame-FinalProject
-A platforming game created for the final project of a college game design course, meeting the requirements needed. 
+
+Download the playable Windows build: https://drive.google.com/file/d/1LfMmznA4y-dgWadvn69Jrz9udcQ5ZzKZ/view?usp=sharing
+
+A simple platformer game, designed to meet all of the requirements of my final project. Created using unity (c#).
+
